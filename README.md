@@ -26,6 +26,7 @@ Kliknutím na odkaz níže otevřete hotový testovací kód přímo v prostřed
 * 🚗 **TEST Vehicle** (Program pro autíčko / deska WuKong)
     * 👉 [Otevřít projekt v MakeCode](https://makecode.microbit.org/S32900-02070-29523-64348)
 
-
+* 📚 Návod na jednoduchý model robota 
+    * 👉 [Basic Soccer Vehicle.pdf](https://github.com/EmmetBrickHacker/roboticky_fotbal/blob/main/Basic%20Soccer%20Vehicle.pdf)
 ---
 *Vytvořeno pro výuku programování počítačů micro:bit.*
