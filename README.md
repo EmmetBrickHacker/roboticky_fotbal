@@ -10,9 +10,9 @@ Pokud si chcete vytvořit vlastní program, potřebujete si do prostředí MakeC
 **Postup:** V MakeCode klikněte na ozubené kolečko (vpravo nahoře) -> **Rozšíření**, do vyhledávacího pole zkopírujte jednu z níže uvedených adres a potvrďte.
 
 * 📚 **Unified Remote Control** Knihovna pro unifikovaný ovladač
-    * URL k zkopírování: `https://github.com/EmmetBrickHacker/pxt-unified-rc`
+    * URL k zkopírování: `https://github.com/BrickHackers/pxt-unified-rc`
 * 📚 **Unified Wukong Vehicle** Knihovna pro jednoduché řízení vozidla za pomoci unifikovaného ovladače
-    * URL k zkopírování: `https://github.com/emmetbrickhacker/pxt-unified-wukong`
+    * URL k zkopírování: `https://github.com/BrickHackers/pxt-unified-wukong`
 
 
 ---
